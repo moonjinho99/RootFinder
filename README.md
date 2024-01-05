@@ -24,6 +24,8 @@
 
 <img src="https://github.com/moonjinho99/RootFinder/assets/117807455/91a0237b-a71b-44cb-9ac0-ec58c9db996d" width="600" height="350">
 
+<hr>
+
 ➡ 여행 코스 등록
 
 <img src="https://github.com/moonjinho99/RootFinder/assets/117807455/ceb29df8-4347-427d-bf26-e44a26b4f3fa" width="330" height="250">
