@@ -20,13 +20,27 @@
 
 ## ⭐ 주요기능
 
-➡ AR 기술을 통한 가구배치
+➡ 나이, 성별, MBTI별 코스 확인
 
-<img src="https://github.com/moonjinho99/FurinMatch_Android/assets/117807455/564b1fcc-0656-4204-a0d0-17ed155aafcd" width="200" height="250"><img src="https://github.com/moonjinho99/FurinMatch_Android/assets/117807455/2e05728e-13ee-4014-b74f-a122fa69e994" width="200" height="250"><img src="https://github.com/moonjinho99/FurinMatch_Android/assets/117807455/0a3cf697-32d3-4bf6-8bf6-b629fd32765a" width="200" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/91a0237b-a71b-44cb-9ac0-ec58c9db996d" width="600" height="350">
 
-➡ 채팅기능
+➡ 여행 코스 등록
 
-<img src="https://github.com/moonjinho99/FurinMatch_Android/assets/117807455/b8f49ee4-0dd9-4a81-a39b-de0ba6048303" width="200" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/ceb29df8-4347-427d-bf26-e44a26b4f3fa" width="330" height="250">
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/8e6b098b-569e-443d-8b97-2c7051d51602" width="330" height="250">
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/6a7ca7e8-8c17-4f09-aca7-cdc226fbdc02" width="330" height="250">
+
+<hr>
+
+➡ 코스 상세 보기
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/62480bde-e3f2-4107-ba69-dd3b2d151d26" width="330" height="250">
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/eed2095b-98e6-4ee5-a60a-2f3893b06832" width="330" height="250">
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/e664ae64-1873-4734-853a-0e1256941daa" width="330" height="250">
 
 <hr>
 
