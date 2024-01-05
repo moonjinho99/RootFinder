@@ -28,21 +28,21 @@
 
 ➡ 여행 코스 등록
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/ceb29df8-4347-427d-bf26-e44a26b4f3fa" width="330" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/ceb29df8-4347-427d-bf26-e44a26b4f3fa" width="400" height="250">
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/8e6b098b-569e-443d-8b97-2c7051d51602" width="330" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/8e6b098b-569e-443d-8b97-2c7051d51602" width="400" height="250">
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/6a7ca7e8-8c17-4f09-aca7-cdc226fbdc02" width="330" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/6a7ca7e8-8c17-4f09-aca7-cdc226fbdc02" width="400" height="250">
 
 <hr>
 
 ➡ 코스 상세 보기
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/62480bde-e3f2-4107-ba69-dd3b2d151d26" width="330" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/62480bde-e3f2-4107-ba69-dd3b2d151d26" width="400" height="250">
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/eed2095b-98e6-4ee5-a60a-2f3893b06832" width="330" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/eed2095b-98e6-4ee5-a60a-2f3893b06832" width="400" height="250">
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/e664ae64-1873-4734-853a-0e1256941daa" width="330" height="250">
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/e664ae64-1873-4734-853a-0e1256941daa" width="400" height="250">
 
 <hr>
 
