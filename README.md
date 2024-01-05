@@ -44,6 +44,24 @@
 
 <hr>
 
+➡ 지도로 코스 확인하기
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/f21bbf96-730f-4135-988b-5cebd2f41962" width="500" height="350">
+
+<hr>
+
+➡ 관리자 페이지 - 회원, 코스, 댓글 삭제/수정
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/3590dee6-5058-4f0b-9b1f-c8483372c942" width="400" height="250">
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/aa8efe87-b55e-450c-b448-cc284eba2a56" width="400" height="250">
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/0e3520bd-16a1-4b10-9f5c-dccc75b37e94" width="400" height="250">
+
+<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/5db0a78d-18f4-4392-8533-3cbe93153e55" width="400" height="250">
+
+<hr>
+
 ## 🔍 데이터 통신 방법
 
 ![image](https://github.com/moonjinho99/FurinMatch_Android/assets/117807455/19585aa8-ffc7-4760-80e5-d7705802070a)
