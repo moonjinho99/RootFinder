@@ -60,6 +60,8 @@
 
 ➡ 지도로 코스 확인하기
 
+- 카카오 지도 API를 이용하여 구현
+
 <img src="https://github.com/moonjinho99/RootFinder/assets/117807455/f21bbf96-730f-4135-988b-5cebd2f41962" width="500" height="350">
 <br/><br/>
 <hr>
